@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Game Backlog Manager</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="status_array">
+        <item>Want to play</item>
+        <item>Playing</item>
+        <item>Stalled</item>
+        <item>Dropped</item>
+    </string-array>
+    <string name="status_text">Status</string>
+    <string name="notes_hint">Notes</string>
+    <string name="platform_hint">Platform</string>
+    <string name="title_hint">Title</string>
+    <string name="title_warning">Please Enter a title for the game</string>
+    <string name="platform_warning">Please Enter a platform for the game</string>
+</resources>
